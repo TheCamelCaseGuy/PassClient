@@ -1,0 +1,4 @@
+If You Are Reading This, Then Either You Are Trying To Make A Custom PassClient Launcher Or You Are Just Changing Some Files.
+I Have No Problem With Either Of These.
+This File Is Just Used To Check If You Have A Stable Internet Connection.
+A Hash Will Be Generated For This File When It Is Downloaded And Then Compared With The Hash In The Installer.
